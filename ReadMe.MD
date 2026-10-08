@@ -6,16 +6,16 @@ MicroBlog is a small RAZOR web app that allows users to create blog posts, and v
 
 Using the in-memory repository.
 
-[In-Memory](assets/inmemory_repository.png)
+![In-Memory](assets/inmemory_repository.png)
 
 Using the JSON repository.
 
-[JSON](assets/json_repository.png)
+![JSON](assets/json_repository.png)
 
 # Images
 
-[View](assets/create.png)
+![View](assets/create.png)
 
-[Home](assets/home.png)
+![Home](assets/home.png)
 
-[Post](assets/post.png)
+![Post](assets/post.png)
