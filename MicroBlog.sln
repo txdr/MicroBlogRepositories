@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11806.211 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroBlog", "MicroBlog.csproj", "{CFA0437B-C990-BD21-7305-7FBCAAE59E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA0437B-C990-BD21-7305-7FBCAAE59E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA0437B-C990-BD21-7305-7FBCAAE59E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA0437B-C990-BD21-7305-7FBCAAE59E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA0437B-C990-BD21-7305-7FBCAAE59E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E87286-368F-4010-902F-5ABA05C2C45D}
+	EndGlobalSection
+EndGlobal

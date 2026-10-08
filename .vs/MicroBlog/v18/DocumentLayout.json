@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\services\\jsonblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:services\\jsonblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\services\\inmemoryblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:services\\inmemoryblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\services\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:services\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\services\\poststore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:services\\poststore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\shared\\_postcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\shared\\_postcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\data\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:data\\posts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\pages\\shared\\_postcard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:pages\\shared\\_postcard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|c:\\users\\taylor\\onedrive\\desktop\\2026-college\\asp.net\\microbloginjection\\microblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFA0437B-C990-BD21-7305-7FBCAAE59E99}|MicroBlog.csproj|solutionrelative:microblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\InMemoryBlogRepository.cs",
+              "RelativeDocumentMoniker": "Services\\InMemoryBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\InMemoryBlogRepository.cs",
+              "RelativeToolTip": "Services\\InMemoryBlogRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:48:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Services\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\IBlogRepository.cs",
+              "RelativeToolTip": "Services\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T00:59:47.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T23:43:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T00:14:45.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadMe.MD",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\ReadMe.MD",
+              "RelativeDocumentMoniker": "ReadMe.MD",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\ReadMe.MD",
+              "RelativeToolTip": "ReadMe.MD",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-24T00:49:00.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T22:42:47.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T23:54:32.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\JsonBlogRepository.cs",
+              "RelativeDocumentMoniker": "Services\\JsonBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\JsonBlogRepository.cs",
+              "RelativeToolTip": "Services\\JsonBlogRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T01:25:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T23:53:49.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T22:46:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostStore.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\PostStore.cs",
+              "RelativeDocumentMoniker": "Services\\PostStore.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Services\\PostStore.cs",
+              "RelativeToolTip": "Services\\PostStore.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T22:50:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T00:45:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-24T00:14:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T23:28:23.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "posts.json",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\data\\posts.json",
+              "RelativeDocumentMoniker": "data\\posts.json",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\data\\posts.json",
+              "RelativeToolTip": "data\\posts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-24T00:45:44.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_PostCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_PostCard.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_PostCard.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_PostCard.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_PostCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T23:32:49.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T23:28:21.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_PostCard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_PostCard.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_PostCard.cshtml.cs",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\Pages\\Shared\\_PostCard.cshtml.cs",
+              "RelativeToolTip": "Pages\\Shared\\_PostCard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T23:33:38.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MicroBlog.csproj",
+              "DocumentMoniker": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\MicroBlog.csproj",
+              "RelativeDocumentMoniker": "MicroBlog.csproj",
+              "ToolTip": "C:\\Users\\Taylor\\OneDrive\\Desktop\\2026-College\\ASP.NET\\MicroBlogInjection\\MicroBlog.csproj",
+              "RelativeToolTip": "MicroBlog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-23T22:43:12.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
